@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 welcome!
+My name is **Philip Newby** and i'm from South Tyneside, United Kingdom studying 📖 **BSc (Honours) Computing and IT** with the Open University.
+
+I am currently working within a warehouse environment which I do enjoy. In my spare time I like to learn and code and my favourites are OOP such as **Java, Python** and **JS** but I like to learn anything when it comes to programming. I am currently learning towards the **Cybersecurity** path and would like to develop skills to be able to get to the stage of **Offensive Security, Pen Testing, Mobile Forensics** etc.
+
+
 
 <!--
 **pnewby060/pnewby060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
